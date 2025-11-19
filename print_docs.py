@@ -1,0 +1,15 @@
+import wormy_v3
+
+print("MODULE DOCSTRING:\n", wormy_v3.__doc__, "\n")
+print("main:\n", wormy_v3.main.__doc__, "\n")
+print("runGame:\n", wormy_v3.runGame.__doc__, "\n")
+print("drawPressKeyMsg:\n", wormy_v3.drawPressKeyMsg.__doc__, "\n")
+print("checkForKeyPress:\n", wormy_v3.checkForKeyPress.__doc__, "\n")
+print("showStartScreen:\n", wormy_v3.showStartScreen.__doc__, "\n")
+print("terminate:\n", wormy_v3.terminate.__doc__, "\n")
+print("getRandomLocation:\n", wormy_v3.getRandomLocation.__doc__, "\n")
+print("showGameOverScreen:\n", wormy_v3.showGameOverScreen.__doc__, "\n")
+print("drawScore:\n", wormy_v3.drawScore.__doc__, "\n")
+print("drawWorm:\n", wormy_v3.drawWorm.__doc__, "\n")
+print("drawApple:\n", wormy_v3.drawApple.__doc__, "\n")
+print("drawGrid:\n", wormy_v3.drawGrid.__doc__, "\n")
